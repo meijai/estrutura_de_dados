@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "yearly_transport_plan/1.0.0": {
+        "runtime": {
+          "yearly_transport_plan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "yearly_transport_plan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

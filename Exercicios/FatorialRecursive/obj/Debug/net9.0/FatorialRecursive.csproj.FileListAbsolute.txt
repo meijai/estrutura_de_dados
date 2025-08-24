@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\bin\Debug\net9.0\FatorialRecursive.exe
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\bin\Debug\net9.0\FatorialRecursive.deps.json
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\bin\Debug\net9.0\FatorialRecursive.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\bin\Debug\net9.0\FatorialRecursive.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\bin\Debug\net9.0\FatorialRecursive.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\obj\Debug\net9.0\FatorialRecursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\obj\Debug\net9.0\FatorialRecursive.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\obj\Debug\net9.0\FatorialRecursive.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\obj\Debug\net9.0\FatorialRecursive.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\obj\Debug\net9.0\FatorialRecursive.sourcelink.json
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\obj\Debug\net9.0\FatorialRecursive.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\obj\Debug\net9.0\refint\FatorialRecursive.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\obj\Debug\net9.0\FatorialRecursive.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\obj\Debug\net9.0\FatorialRecursive.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\FatorialRecursive\obj\Debug\net9.0\ref\FatorialRecursive.dll

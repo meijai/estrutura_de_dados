@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\obj\Debug\net9.0\yearly_transport_plan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\obj\Debug\net9.0\yearly_transport_plan.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\obj\Debug\net9.0\yearly_transport_plan.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\obj\Debug\net9.0\yearly_transport_plan.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\obj\Debug\net9.0\yearly_transport_plan.sourcelink.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\bin\Debug\net9.0\yearly_transport_plan.exe
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\bin\Debug\net9.0\yearly_transport_plan.deps.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\bin\Debug\net9.0\yearly_transport_plan.runtimeconfig.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\bin\Debug\net9.0\yearly_transport_plan.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\bin\Debug\net9.0\yearly_transport_plan.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\obj\Debug\net9.0\yearly_transport_plan.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\obj\Debug\net9.0\refint\yearly_transport_plan.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\obj\Debug\net9.0\yearly_transport_plan.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\obj\Debug\net9.0\yearly_transport_plan.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\yearly_transport_plan\obj\Debug\net9.0\ref\yearly_transport_plan.dll

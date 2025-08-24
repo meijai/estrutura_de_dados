@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\obj\Debug\net9.0\game_map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\obj\Debug\net9.0\game_map.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\obj\Debug\net9.0\game_map.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\obj\Debug\net9.0\game_map.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\obj\Debug\net9.0\game_map.sourcelink.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\bin\Debug\net9.0\game_map.exe
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\bin\Debug\net9.0\game_map.deps.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\bin\Debug\net9.0\game_map.runtimeconfig.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\bin\Debug\net9.0\game_map.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\bin\Debug\net9.0\game_map.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\obj\Debug\net9.0\game_map.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\obj\Debug\net9.0\refint\game_map.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\obj\Debug\net9.0\game_map.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\obj\Debug\net9.0\game_map.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\Estrutura_de_dados\Exercicios\game_map\obj\Debug\net9.0\ref\game_map.dll

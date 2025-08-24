@@ -1,0 +1,86 @@
+atividade jogo da velha:
+padrão se todos os I forem igual = win
+se todos os j forem igual = win
+se i = j WIN diagonal 
+transversal se i+j = 2 WIN
+atividades das paginas 45~48
+
+contador, flag, acumulador (condição)
+
+
+
+C# dev kit
+c#
+intellicode for c#
+drácula theme oficial
+ler segundo capitulo do arquivo postado (arrays)
+sdk = software development kit
+camelCase = abacateBatataAbacaxi
+PascalCase = AbacateBatataAbacaxi
+snake_case = batata_macarrao_arroz
+lowercase - tudominusculoaqui
+UPPERCASE = já sabe ne?!
+
+LER PAGINAS 38 39 40 41 42
+fazer o joguinho
+
+
+##### anotações #####
+abrir powershell na pasta
+dotnet new console -n "arrays"
+ls (lista diretório)
+cd (tab) (entra diretório)
+code . (abre a pasta no vscode)
+
+### no VS code"
+ctrl+' (abre o terminal no vs)
+dotnet run (compliar projeto e executar)
+arquivo sln (arquivo solution)
+shift+delete (apaga linha)
+
+
+
+
+13/08/2025
+
+GitHub
+Repositórios:
+-locais
+-remotos (GitHub)
+criar local:
+cd (local)
+git init (inicia repositorio do git)
+git branch -M main (para criar uma ramoficação x nome) (main)
+
+#####adicionar repositório remoto#####
+
+git remote -v (verificar se há repositório cadastrado)
+git remote add origin "link" (vincular repositorio remoto)
+git status (verifica se há arquivos não rastreados)
+git add . (adiciona arquivos nao rastreados ao rastreamento)
+git commit -m "mensagem" (criar commit(checkpoint))
+git push origin main (uploado arquivos)
+
+#####abrir arquivos git em casa#####
+->Escolher local para colocar o repositorio
+->Copiar link do repositorio
+->No diretorio desejado, abrir cmd
+git clone "link" (clona repositorio do git)
+
+###########################################
+
+aula 3
+contador, flag, acumulador (condição)
+em uma função recursiva eu controlo quando o ciclo vai ser rompido
+
+caso base é o momento em que a pilha de chamadas interrompe, acabou ali (caso base)
+
+e a outra situação e a situação em que ele vai continuar comendo ele mesmo (caso recursivo)
+
+2 situações
+caso base e caso recursivo
+
+
+sequencia de Fibonacci
+(proporção aurea)
+

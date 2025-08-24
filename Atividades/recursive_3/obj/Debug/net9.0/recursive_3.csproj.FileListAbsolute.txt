@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\bin\Debug\net9.0\recursive_3.exe
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\bin\Debug\net9.0\recursive_3.deps.json
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\bin\Debug\net9.0\recursive_3.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\bin\Debug\net9.0\recursive_3.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\bin\Debug\net9.0\recursive_3.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\obj\Debug\net9.0\recursive_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\obj\Debug\net9.0\recursive_3.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\obj\Debug\net9.0\recursive_3.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\obj\Debug\net9.0\recursive_3.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\obj\Debug\net9.0\recursive_3.sourcelink.json
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\obj\Debug\net9.0\recursive_3.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\obj\Debug\net9.0\refint\recursive_3.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\obj\Debug\net9.0\recursive_3.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\obj\Debug\net9.0\recursive_3.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\2025_2\Estrutura_de_dados\Atividades\recursive_3\obj\Debug\net9.0\ref\recursive_3.dll
