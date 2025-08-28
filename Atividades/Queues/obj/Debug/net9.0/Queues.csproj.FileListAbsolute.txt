@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\obj\Debug\net9.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\obj\Debug\net9.0\Queues.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\obj\Debug\net9.0\Queues.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\obj\Debug\net9.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\obj\Debug\net9.0\Queues.sourcelink.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\bin\Debug\net9.0\Queues.exe
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\bin\Debug\net9.0\Queues.deps.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\bin\Debug\net9.0\Queues.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\bin\Debug\net9.0\Queues.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\bin\Debug\net9.0\Queues.pdb
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\obj\Debug\net9.0\Queues.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\obj\Debug\net9.0\refint\Queues.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\obj\Debug\net9.0\Queues.pdb
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\obj\Debug\net9.0\Queues.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Queues\obj\Debug\net9.0\ref\Queues.dll

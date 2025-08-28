@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Exercicios\\jogo_da_velha\\jogo_da_velha.csproj",
-      "projectName": "jogo_da_velha",
-      "projectPath": "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Exercicios\\jogo_da_velha\\jogo_da_velha.csproj",
+      "projectUniqueName": "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Atividades\\Queues\\Queues.csproj",
+      "projectName": "Queues",
+      "projectPath": "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Atividades\\Queues\\Queues.csproj",
       "packagesPath": "C:\\Users\\MJ Soluções\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Exercicios\\jogo_da_velha\\obj\\",
+      "outputPath": "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Atividades\\Queues\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MJ Soluções\\AppData\\Roaming\\NuGet\\NuGet.Config"

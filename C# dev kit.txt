@@ -11,6 +11,7 @@ contador, flag, acumulador (condição)
 
 C# dev kit
 c#
+c# extensions
 intellicode for c#
 drácula theme oficial
 ler segundo capitulo do arquivo postado (arrays)
@@ -83,4 +84,15 @@ caso base e caso recursivo
 
 sequencia de Fibonacci
 (proporção aurea)
+
+
+
+
+
+
+Aula 4
+
+
+
+
 
