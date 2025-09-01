@@ -10,12 +10,17 @@ center.Call(9641);
 center.Call(4321);
 center.Call(1122);
 
+string[] consultants = { "Paulão", "Cleber", "Clotilde", "Bernenta", "Matilda" };
+
 while (center.AreWaitingCalls())
 {
-    IncomingCall call = center.Answer("Paulão");
+    string consultant = consultants[random.Next(consultants.Length)];
+
+    IncomingCall call = center.Answer(consultant);
     Console.WriteLine($"{call.Id} de {call.ClientId} atendido por {call.Consultant}");
     Console.WriteLine($"-- Em: {call.StartTime}");
-    Thread.Sleep(random.Next(1000, 10000));
+
+    Thread.Sleep(random.Next(1000, 3000));
 
     center.End(call);
 
