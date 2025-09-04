@@ -1,5 +1,7 @@
 using System;
 using System.Collections.Generic;
+using System.Data.Common;
+using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -8,34 +10,33 @@ namespace Queues
     public class CallCenter
     {
         private int _counter = 0;
-        public Queue<IncomingCall> Calls { get; private set; } = [];
+        public ConcurrentQueue<IncomingCall> Calls { get; private set; }
         //Atenção: Metodos contrutores possuem o mesmo nome da classe, isso é uma regra!
         //são invocados quando constroi-se uma nova instancia do objeto deste tipo.
         public CallCenter()
         {
-            Calls = new Queue<IncomingCall>();
+            Calls = new ConcurrentQueue<IncomingCall>();
         }
-        public void Call(int clientId)
+        public int Call(int clientId)
         {
             IncomingCall call = new IncomingCall();
-            call.Id = ++_counter;
-            call.ClientId = clientId;
-            call.CallTime = DateTime.Now;
-
+            {
+                Id = ++_counter;
+                ClientId = clientId;
+                CallTime = DateTime.Now;
+            };
             Calls.Enqueue(call);
+            return Calls.Count;
         }
 
         public IncomingCall Answer(string consultant)
         {
-            if (Calls.Count > 0)
+            if (Calls.Count > 0 && Calls.TryDequeue(out IncomingCall call))
             {
-                IncomingCall call = Calls.Dequeue();
                 call.Consultant = consultant;
                 call.StartTime = DateTime.Now;
-
                 return call;
             }
-
             return null!;
         }
 

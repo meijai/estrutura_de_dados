@@ -1,29 +1,26 @@
 ﻿using Queues;
-
-Random random = new Random();
-
-CallCenter center = new CallCenter();
-center.Call(1234);
-center.Call(5678);
-center.Call(1468);
-center.Call(9641);
-center.Call(4321);
-center.Call(1122);
-
-string[] consultants = { "Paulão", "Cleber", "Clotilde", "Bernenta", "Matilda" };
-
-while (center.AreWaitingCalls())
+static void Main(string [] args)
 {
-    string consultant = consultants[random.Next(consultants.Length)];
-
-    IncomingCall call = center.Answer(consultant);
-    Console.WriteLine($"{call.Id} de {call.ClientId} atendido por {call.Consultant}");
-    Console.WriteLine($"-- Em: {call.StartTime}");
-
-    Thread.Sleep(random.Next(1000, 3000));
-
-    center.End(call);
-
-    Console.WriteLine($"Chamado {call.Id} de {call.ClientId} encerrado por {call.Consultant}");
-    Console.WriteLine($"-- Em: {call.EndTime}");
+    CallCenter center = new CallCenter();
+    Parallel.Invoke(
+    () => CallersAction(center),
+    () => ConsultantAction(center, "Marcin",
+    ConsoleColor.Red),
+    () => ConsultantAction(center, "James",
+    ConsoleColor.Yellow),
+    () => ConsultantAction(center, "Olivia",
+    ConsoleColor.Green));
 }
+    while (center.AreWaitingCalls())
+    {
+        IncomingCall call = center.Answer("Paulão");
+        Console.WriteLine($"{call.Id} de {call.ClientId} atendido por {call.Consultant}");
+        Console.WriteLine($"-- Em: {call.StartTime}");
+
+        Thread.Sleep(random.Next(1000, 3000));
+
+        center.End(call);
+
+        Console.WriteLine($"Chamado {call.Id} de {call.ClientId} encerrado por {call.Consultant}");
+        Console.WriteLine($"-- Em: {call.EndTime}");
+    }

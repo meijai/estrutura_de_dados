@@ -1,3 +1,8 @@
+03/09
+criar programa que leia a palavra e diga se é um palíndromo ou não
+tarefa para desenvolver em casa: no livro => pagina 86 torre de hanoi
+
+
 Atividade criar um call center com mutiplos atendentes
 atividade jogo da velha:
 padrão se todos os I forem igual = win
@@ -93,7 +98,15 @@ sequencia de Fibonacci
 
 Aula 4
 
+Filas
+FiFo - first in first out
 
-
-
+Aula 5
+Pilhas = lifo = last in first out
+push = adicionar item
+pop = tirar item
+peek = olhar porimeiro da lista
+Clear = Limpa lista
+Contains = ve oque tem na pilha
+pode ser usada para ler palavras de tras pra frente :D
 
