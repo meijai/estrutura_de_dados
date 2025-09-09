@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\obj\Debug\net9.0\TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\obj\Debug\net9.0\TowerOfHanoi.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\obj\Debug\net9.0\TowerOfHanoi.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\obj\Debug\net9.0\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\obj\Debug\net9.0\TowerOfHanoi.sourcelink.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\bin\Debug\net9.0\TowerOfHanoi.exe
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\bin\Debug\net9.0\TowerOfHanoi.deps.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\bin\Debug\net9.0\TowerOfHanoi.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\bin\Debug\net9.0\TowerOfHanoi.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\bin\Debug\net9.0\TowerOfHanoi.pdb
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\obj\Debug\net9.0\TowerOfHanoi.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\obj\Debug\net9.0\refint\TowerOfHanoi.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\obj\Debug\net9.0\TowerOfHanoi.pdb
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\obj\Debug\net9.0\TowerOfHanoi.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\TowerOfHanoi\obj\Debug\net9.0\ref\TowerOfHanoi.dll
