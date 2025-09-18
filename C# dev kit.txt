@@ -1,3 +1,6 @@
+Criar um laço de repetição for para imprimir todos os nomes da arvore de funcionarios
+
+
 03/09
 criar programa que leia a palavra e diga se é um palíndromo ou não
 tarefa para desenvolver em casa: no livro => pagina 86 torre de hanoi
