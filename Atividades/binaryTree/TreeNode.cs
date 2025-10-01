@@ -1,15 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Globalization;
 
 namespace binaryTree
 {
     public class TreeNode<T>
     {
-        public T? Data { get; set; }
-        public TreeNode<T>? Parent { get; set; }
-        public List<TreeNode<T>> Children { get; set; } = [];
+        public required T Data { get; set; }
+        public required TreeNode<T> Parent { get; set; }
+        public required List<TreeNode<T>> Children { get; set; }
         public int GetHeight()
         {
             int height = 1;

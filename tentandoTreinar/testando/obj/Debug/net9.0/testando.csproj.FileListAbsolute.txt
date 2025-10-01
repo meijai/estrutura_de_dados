@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\bin\Debug\net9.0\testando.exe
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\bin\Debug\net9.0\testando.deps.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\bin\Debug\net9.0\testando.runtimeconfig.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\bin\Debug\net9.0\testando.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\bin\Debug\net9.0\testando.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\obj\Debug\net9.0\testando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\obj\Debug\net9.0\testando.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\obj\Debug\net9.0\testando.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\obj\Debug\net9.0\testando.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\obj\Debug\net9.0\testando.sourcelink.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\obj\Debug\net9.0\testando.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\obj\Debug\net9.0\refint\testando.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\obj\Debug\net9.0\testando.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\obj\Debug\net9.0\testando.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\testando\obj\Debug\net9.0\ref\testando.dll

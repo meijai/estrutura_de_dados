@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\bin\Debug\net9.0\lists.exe
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\bin\Debug\net9.0\lists.deps.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\bin\Debug\net9.0\lists.runtimeconfig.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\bin\Debug\net9.0\lists.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\bin\Debug\net9.0\lists.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\obj\Debug\net9.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\obj\Debug\net9.0\lists.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\obj\Debug\net9.0\lists.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\obj\Debug\net9.0\lists.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\obj\Debug\net9.0\lists.sourcelink.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\obj\Debug\net9.0\lists.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\obj\Debug\net9.0\refint\lists.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\obj\Debug\net9.0\lists.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\obj\Debug\net9.0\lists.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\lists\obj\Debug\net9.0\ref\lists.dll

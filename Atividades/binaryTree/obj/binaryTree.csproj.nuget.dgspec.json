@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Atividades\\binaryTree\\binaryTree.csproj": {}
+    "C:\\Users\\bruno\\Desktop\\Faculdade\\2025_2\\estrutura_de_dados\\Atividades\\binaryTree\\binaryTree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Atividades\\binaryTree\\binaryTree.csproj": {
+    "C:\\Users\\bruno\\Desktop\\Faculdade\\2025_2\\estrutura_de_dados\\Atividades\\binaryTree\\binaryTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Atividades\\binaryTree\\binaryTree.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\Faculdade\\2025_2\\estrutura_de_dados\\Atividades\\binaryTree\\binaryTree.csproj",
         "projectName": "binaryTree",
-        "projectPath": "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Atividades\\binaryTree\\binaryTree.csproj",
-        "packagesPath": "C:\\Users\\MJ Soluções\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MJ Soluções\\Desktop\\estrutura_de_dados\\Atividades\\binaryTree\\obj\\",
+        "projectPath": "C:\\Users\\bruno\\Desktop\\Faculdade\\2025_2\\estrutura_de_dados\\Atividades\\binaryTree\\binaryTree.csproj",
+        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno\\Desktop\\Faculdade\\2025_2\\estrutura_de_dados\\Atividades\\binaryTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MJ Soluções\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,15 +1,15 @@
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.AssemblyInfoInputs.cache
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.AssemblyInfo.cs
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.csproj.CoreCompileInputs.cache
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.sourcelink.json
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\bin\Debug\net9.0\binaryTree.exe
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\bin\Debug\net9.0\binaryTree.deps.json
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\bin\Debug\net9.0\binaryTree.runtimeconfig.json
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\bin\Debug\net9.0\binaryTree.dll
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\bin\Debug\net9.0\binaryTree.pdb
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.dll
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\refint\binaryTree.dll
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.pdb
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.genruntimeconfig.cache
-C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\ref\binaryTree.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\bin\Debug\net9.0\binaryTree.exe
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\bin\Debug\net9.0\binaryTree.deps.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\bin\Debug\net9.0\binaryTree.runtimeconfig.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\bin\Debug\net9.0\binaryTree.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\bin\Debug\net9.0\binaryTree.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.sourcelink.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\refint\binaryTree.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\binaryTree.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\Atividades\binaryTree\obj\Debug\net9.0\ref\binaryTree.dll

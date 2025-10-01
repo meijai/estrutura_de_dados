@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\bin\Debug\net9.0\menuOpcoes.exe
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\bin\Debug\net9.0\menuOpcoes.deps.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\bin\Debug\net9.0\menuOpcoes.runtimeconfig.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\bin\Debug\net9.0\menuOpcoes.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\bin\Debug\net9.0\menuOpcoes.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\obj\Debug\net9.0\menuOpcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\obj\Debug\net9.0\menuOpcoes.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\obj\Debug\net9.0\menuOpcoes.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\obj\Debug\net9.0\menuOpcoes.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\obj\Debug\net9.0\menuOpcoes.sourcelink.json
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\obj\Debug\net9.0\menuOpcoes.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\obj\Debug\net9.0\refint\menuOpcoes.dll
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\obj\Debug\net9.0\menuOpcoes.pdb
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\obj\Debug\net9.0\menuOpcoes.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Faculdade\2025_2\estrutura_de_dados\tentandoTreinar\menuOpcoes\obj\Debug\net9.0\ref\menuOpcoes.dll

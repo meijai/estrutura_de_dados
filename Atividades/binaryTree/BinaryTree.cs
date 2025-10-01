@@ -1,17 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace binaryTree
 {
     public class BinaryTree<T>
     {
-        public enum TraversalEnum
-        {
-            PREORDER, INORDER, POSTORDER
-        }
-        public BinaryTreeNode<T> Root { get; set; } = null!;
+        public required BinaryTreeNode<T> root { get; set; }
         public int Count { get; set; }
 
         private void TraversePreOrder(BinaryTreeNode<T> node, List<BinaryTreeNode<T>> result)
@@ -50,8 +41,34 @@ namespace binaryTree
             switch (mode)
             {
                 case TraversalEnum.PREORDER:
-                    TraversePreOrder(Root, nodes);
+                    TraversePreOrder(root, nodes);
+                    break;
+                case TraversalEnum.INORDER:
+                    TraverseInOrder(root, nodes);
+                    break;
+                case TraversalEnum.POSTORDER:
+                    TraversePostOrder(root, nodes);
+                    break;
             }
+            return nodes;
+        }
+
+        public enum TraversalEnum
+        {
+            PREORDER,
+            INORDER,
+            POSTORDER
+        }
+
+        public int GetHeight()
+        {
+            int height = 0;
+            foreach (BinaryTreeNode<T> node
+                in Traverse(TraversalEnum.PREORDER))
+            {
+                height = Math.Max(height, node.GetHeight());
+            }
+            return height;
         }
     }
 }
