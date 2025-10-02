@@ -1,3 +1,9 @@
+Fazer InsertionSort ( já fiz)
+
+1 - aplique o BubbloSort para ordenar um vetor de String
+2 - E se quiséssemos que este algoritmo ordene de forma decrescente, como alterar? faça alguns teste!
+3 - Fazer leitura e um resumo do algoritmo InsertionSort
+
 Criar um laço de repetição for para imprimir todos os nomes da arvore de funcionarios
 
 
@@ -94,11 +100,6 @@ caso base e caso recursivo
 sequencia de Fibonacci
 (proporção aurea)
 
-
-
-
-
-
 Aula 4
 
 Filas
@@ -113,3 +114,7 @@ Clear = Limpa lista
 Contains = ve oque tem na pilha
 pode ser usada para ler palavras de tras pra frente :D
 
+2025/10/01
+
+laço encadeado = 'for' dentro de outro 'for' (chained)
+[] significa array?

@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\obj\Debug\net9.0\bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\obj\Debug\net9.0\bubbleSort.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\obj\Debug\net9.0\bubbleSort.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\obj\Debug\net9.0\bubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\obj\Debug\net9.0\bubbleSort.sourcelink.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\bin\Debug\net9.0\bubbleSort.exe
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\bin\Debug\net9.0\bubbleSort.deps.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\bin\Debug\net9.0\bubbleSort.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\bin\Debug\net9.0\bubbleSort.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\bin\Debug\net9.0\bubbleSort.pdb
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\obj\Debug\net9.0\bubbleSort.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\obj\Debug\net9.0\refint\bubbleSort.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\obj\Debug\net9.0\bubbleSort.pdb
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\obj\Debug\net9.0\bubbleSort.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\bubbleSort\obj\Debug\net9.0\ref\bubbleSort.dll
