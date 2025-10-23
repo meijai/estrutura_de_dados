@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\obj\Debug\net9.0\RadixSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\obj\Debug\net9.0\RadixSort.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\obj\Debug\net9.0\RadixSort.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\obj\Debug\net9.0\RadixSort.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\obj\Debug\net9.0\RadixSort.sourcelink.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\bin\Debug\net9.0\RadixSort.exe
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\bin\Debug\net9.0\RadixSort.deps.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\bin\Debug\net9.0\RadixSort.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\bin\Debug\net9.0\RadixSort.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\bin\Debug\net9.0\RadixSort.pdb
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\obj\Debug\net9.0\RadixSort.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\obj\Debug\net9.0\refint\RadixSort.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\obj\Debug\net9.0\RadixSort.pdb
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\obj\Debug\net9.0\RadixSort.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\RadixSort\obj\Debug\net9.0\ref\RadixSort.dll
