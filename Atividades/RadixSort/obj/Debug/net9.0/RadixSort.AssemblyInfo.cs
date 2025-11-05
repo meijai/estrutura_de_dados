@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RadixSort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d78da7738ed2c281d97e49108f0f119710889cc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+333cc6a5f10c1683d5b4af4005e1e26c03eeb34f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RadixSort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RadixSort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
