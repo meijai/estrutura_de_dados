@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\bin\Debug\net9.0\searchAlgorithm.exe
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\bin\Debug\net9.0\searchAlgorithm.deps.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\bin\Debug\net9.0\searchAlgorithm.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\bin\Debug\net9.0\searchAlgorithm.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\bin\Debug\net9.0\searchAlgorithm.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\obj\Debug\net9.0\searchAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\obj\Debug\net9.0\searchAlgorithm.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\obj\Debug\net9.0\searchAlgorithm.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\obj\Debug\net9.0\searchAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\obj\Debug\net9.0\searchAlgorithm.sourcelink.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\obj\Debug\net9.0\searchAlgorithm.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\obj\Debug\net9.0\refint\searchAlgorithm.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\obj\Debug\net9.0\searchAlgorithm.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\obj\Debug\net9.0\searchAlgorithm.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Tarefas\searchAlgorithm\obj\Debug\net9.0\ref\searchAlgorithm.dll
