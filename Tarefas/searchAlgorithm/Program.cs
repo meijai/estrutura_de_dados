@@ -8,7 +8,7 @@
             "Juarez", "Zuleide", "Eneias", "Jaspion", "Martim"
         };
         Console.WriteLine("Informe um nome para efetuar a busca: ");
-        string pesquisa = Console.ReadLine();
+        string pesquisa = Console.ReadLine(); 
         bool encontrado = true;
 
         for (int i = 0; i < dados.Length; i++)
@@ -17,6 +17,7 @@
             {
                 Console.WriteLine($"A sua busca foi encontrada no banco de dados na posição {i + 1} do vetor!");
                 encontrado = false;
+                break;
             }
         }
         if (encontrado == true)
