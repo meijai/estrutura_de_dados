@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\bin\Debug\net9.0\BuscaLinearSentinela.exe
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\bin\Debug\net9.0\BuscaLinearSentinela.deps.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\bin\Debug\net9.0\BuscaLinearSentinela.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\bin\Debug\net9.0\BuscaLinearSentinela.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\bin\Debug\net9.0\BuscaLinearSentinela.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.sourcelink.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\obj\Debug\net9.0\refint\BuscaLinearSentinela.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\BuscaLinearSentinela\obj\Debug\net9.0\ref\BuscaLinearSentinela.dll
