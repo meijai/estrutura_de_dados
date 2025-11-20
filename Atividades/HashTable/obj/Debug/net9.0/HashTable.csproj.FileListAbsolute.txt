@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\bin\Debug\net9.0\HashTable.exe
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\bin\Debug\net9.0\HashTable.deps.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\bin\Debug\net9.0\HashTable.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\bin\Debug\net9.0\HashTable.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\bin\Debug\net9.0\HashTable.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\obj\Debug\net9.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\obj\Debug\net9.0\HashTable.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\obj\Debug\net9.0\HashTable.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\obj\Debug\net9.0\HashTable.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\obj\Debug\net9.0\HashTable.sourcelink.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\obj\Debug\net9.0\HashTable.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\obj\Debug\net9.0\refint\HashTable.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\obj\Debug\net9.0\HashTable.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\obj\Debug\net9.0\HashTable.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\HashTable\obj\Debug\net9.0\ref\HashTable.dll

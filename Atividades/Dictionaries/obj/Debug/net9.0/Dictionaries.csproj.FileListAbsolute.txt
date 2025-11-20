@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\bin\Debug\net9.0\Dictionaries.exe
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\bin\Debug\net9.0\Dictionaries.deps.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\bin\Debug\net9.0\Dictionaries.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\bin\Debug\net9.0\Dictionaries.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\bin\Debug\net9.0\Dictionaries.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\obj\Debug\net9.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\obj\Debug\net9.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\obj\Debug\net9.0\Dictionaries.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\obj\Debug\net9.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\obj\Debug\net9.0\Dictionaries.sourcelink.json
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\obj\Debug\net9.0\Dictionaries.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\obj\Debug\net9.0\refint\Dictionaries.dll
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\obj\Debug\net9.0\Dictionaries.pdb
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\obj\Debug\net9.0\Dictionaries.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\Faculdade\estrutura_de_dados\Atividades\Dictionaries\obj\Debug\net9.0\ref\Dictionaries.dll

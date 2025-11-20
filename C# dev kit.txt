@@ -1,3 +1,10 @@
+Uma empresa de entregas e logística precisa gerenciar os códigos das etiquetas de entrega para cada pacote de produto em seu respectivo código de barras.
+Observe que a chave é o código de rastreio, e o valor é o código de barras da encomenda.
+
+Escreva um produto que armazene em um dicionário ou uma quantidade X de informações referentes ao rastreio e ao pacote. Permitindo ao usuário inseri-las em tempo de execução.
+
+Tome cuidado para que o sistema informe quando houverem lançamentos repetidos e não ocasionar erros inesperados. Em seguida forneca um recurso para que o usuário possa procurar tanto por código de rastreio quanto por código da encomenda, e de um retorno amigável e informativo ao usuário.
+
 Fazer InsertionSort ( já fiz)
 
 1 - aplique o BubbloSort para ordenar um vetor de String
